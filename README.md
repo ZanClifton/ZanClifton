@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ZanClifton
 - 👀 I’m learning to code
 - 🌱 I’m currently learning JavaScript, SQL, HTML and CSS
-- 📫 I'm studying with these folks: https://northcoders.com/
+- 💡 I'm studying with these folks: https://northcoders.com/
