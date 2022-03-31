@@ -29,7 +29,7 @@
 [![CodeWars](https://www.codewars.com/users/ZanClifton/badges/large)](https://www.codewars.com/users/ZanClifton)
 
 <div align=right>
-  <h5> Built by Zan Clifton with thanks to: </h5>
+  <h5> With thanks to: </h5>
   <h6>ReadMe Typing SVG: <a href="https://git.io/typing-svg">DenverCoder1</a>
   <br>GitHub Streak: <a href="https://git.io/streak-stats">DenverCoder1</a>
   <br>GitHub ReadMe Stats: <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
