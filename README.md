@@ -1,6 +1,8 @@
 # Zan Clifton
 
-![Twitter URL](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FZanClifton) ![LinkedIn URL](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white?&style=social&url=https%3A%2F%2Flinkedin.com/%2Fzan-clifton-a87775232/)
+[![Twitter URL](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/ZanClifton)
+[![LinkedIn URL](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=social)](https://linkedin.com/zan-clifton-a87775232/) 
+[![Reddit URL](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white&style=social)](https://www.reddit.com/user/ShrellaJS/)
 
 ![Typing SVG](https://readme-typing-svg-79.herokuapp.com?color=B444F7&lines=Hi%2C+I'm+Zan+Clifton;Junior+JavaScript+Developer;Frontend+%7C+REACT;Backend+%7C+NODE.JS++POSTGRES;TDD+%7C+JEST)
 
