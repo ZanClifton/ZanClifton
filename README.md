@@ -1,6 +1,6 @@
 # Zan Clifton
 
-[![Twitter URL](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/ZanClifton)
+[![Twitter URL](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white&style=social)](https://twitter.com/ZanClifton)
 [![LinkedIn URL](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=social)](https://linkedin.com/zan-clifton-a87775232/) 
 [![Reddit URL](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white&style=social)](https://www.reddit.com/user/ShrellaJS/)
 
