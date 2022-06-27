@@ -4,7 +4,7 @@
 [![LinkedIn URL](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=social)](https://linkedin.com/zan-clifton-a87775232/) 
 [![Reddit URL](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white&style=social)](https://www.reddit.com/user/ShrellaJS/)
 
-![Typing SVG](https://readme-typing-svg-79.herokuapp.com?color=B444F7&lines=Hi%2C+I'm+Zan+Clifton;Junior+Full+Stack+Developer;Frontend+%7C+REACT;Backend+%7C+NODE.JS++POSTGRES;TDD+%7C+JEST)
+![Typing SVG](https://readme-typing-svg-79.herokuapp.com?color=B444F7&lines=Hi%2C+I'm+Zan+Clifton;Software+Developer;Frontend+%7C+REACT;Backend+%7C+NODE.JS++POSTGRES;TDD+%7C+JEST)
 
 [![100 Days of Code](https://github.com/ZanClifton/100-days-of-code/blob/master/100-days-code.png)](https://github.com/ZanClifton/100-days-of-code/blob/master/log.md)
 
