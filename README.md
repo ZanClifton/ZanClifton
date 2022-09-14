@@ -22,6 +22,7 @@
 | PROJECT MANAGEMENT | ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) |
 
 ## Stats
+
 ### GitHub
 
 <p align="left">
@@ -33,7 +34,9 @@
 ##### ![Github Activity Graph - please refresh if chart does not display](https://powerful-badlands-77449.herokuapp.com/graph?username=ZanClifton&custom_title=Zan%20Clifton's%20GitHub%20Contribution%20Graph&theme=react-dark)
 
 ### CodeWars
+
 [![CodeWars](https://www.codewars.com/users/ZanClifton/badges/large)](https://www.codewars.com/users/ZanClifton)
+
 #
 
 <div align=right>
