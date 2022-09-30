@@ -1,4 +1,4 @@
-# Zan Clifton
+# Zan Clifton 
 
 <a href="https://github.com/ZanClifton/100-days-of-code/blob/master/log.md"><img src="https://github.com/ZanClifton/100-days-of-code/blob/master/100-days-code.png" width=250px align=right alt="100 Days of Code"/></a>
 
