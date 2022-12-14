@@ -32,12 +32,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ZanClifton&show_icons=true&theme=highcontrast">
 </p>
 
-<!-- 
-##### ![Github Activity Graph - please refresh if chart does not display](https://powerful-badlands-77449.herokuapp.com/graph?username=ZanClifton&custom_title=Zan%20Clifton's%20GitHub%20Contribution%20Graph&theme=react-dark) -->
+##### ![Github Activity Graph - please refresh if chart does not display](https://github-readme-activity-graph.cyclic.app/graph?username=ZanClifton&custom_title=Zan%20Clifton's%20GitHub%20Contribution%20Graph&theme=react-dark)
 
-### CodeWars
+<!-- ### CodeWars
 
-[![CodeWars](https://www.codewars.com/users/ZanClifton/badges/large)](https://www.codewars.com/users/ZanClifton)
+[![CodeWars](https://www.codewars.com/users/ZanClifton/badges/large)](https://www.codewars.com/users/ZanClifton) -->
 
 #
 
