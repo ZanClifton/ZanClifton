@@ -29,7 +29,7 @@
 
 <p align="left">
   <img width="49.5%" src="https://streak-stats.demolab.com?user=ZanClifton&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZanClifton&show_icons=true&theme=highcontrast">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ZanClifton&show_icons=true&theme=highcontrast">
 </p>
 
 ##### ![Github Activity Graph - please refresh if chart does not display](https://github-readme-activity-graph.cyclic.app/graph?username=ZanClifton&custom_title=Zan%20Clifton's%20GitHub%20Contribution%20Graph&theme=react-dark)
