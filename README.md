@@ -1,6 +1,6 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-# Zan Clifton 
+# Zan Clifton
 
 <!-- <a href="https://github.com/ZanClifton/100-days-of-code"><img src="https://github.com/ZanClifton/100-days-of-code/blob/main/images/100-days-code.png" width=250px align=right alt="100 Days of Code"/></a> -->
 
