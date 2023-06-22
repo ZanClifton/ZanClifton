@@ -23,7 +23,7 @@
 | CI/CD              | ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) |
 | PROJECT MANAGEMENT | ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) |
 
-## Stats
+<!-- ## Stats
 
 ### GitHub
 
@@ -32,7 +32,7 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ZanClifton&show_icons=true&theme=highcontrast">
 </p>
 
-##### ![Github Activity Graph - please refresh if chart does not display](https://github-readme-activity-graph.cyclic.app/graph?username=ZanClifton&custom_title=Zan%20Clifton's%20GitHub%20Contribution%20Graph&theme=react-dark)
+##### ![Github Activity Graph - please refresh if chart does not display](https://github-readme-activity-graph.cyclic.app/graph?username=ZanClifton&custom_title=Zan%20Clifton's%20GitHub%20Contribution%20Graph&theme=react-dark) -->
 
 <!-- ### CodeWars
 
