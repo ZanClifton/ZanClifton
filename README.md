@@ -43,9 +43,9 @@
 <div align=right>
   <h6>With thanks to:
   <br>ReadMe Typing SVG: <a href="https://git.io/typing-svg">DenverCoder1</a>
-  <br>GitHub Streak: <a href="https://git.io/streak-stats">DenverCoder1</a>
+<!--  <br>GitHub Streak: <a href="https://git.io/streak-stats">DenverCoder1</a>
   <br>GitHub ReadMe Stats: <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
-  <br>GitHub Activity Graph: <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">Ashutosh00710</a>
+  <br>GitHub Activity Graph: <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">Ashutosh00710</a> -->
   <br>Profile Badges: <a href="https://shields.io/">Shields IO</a>
   <br>Markdown Badges: <a href="https://github.com/Ileriayo/markdown-badges">Ileriayo</a>
   <br>Custom Markdown Badge for PIP/PyPI: <a href="https://github.com/shivamkapasia0/Github-Badge-Generator">shivamkapasia0</a></h6>
